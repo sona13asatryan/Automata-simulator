@@ -4,10 +4,10 @@ a,b,
 
 0,1
 
-asd, zxc
+q1, q2
 
-1,zxc|0,zxc
-0,asd|1,asd
+1,q2|0,q2
+0,q1|1,q1
 
 ababaaabbbaa
 bababbbaaabb
