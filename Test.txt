@@ -1,0 +1,17 @@
+
+
+a,b,
+
+0,1
+
+asd, zxc
+
+1,zxc|0,zxc
+0,asd|1,asd
+
+ababaaabbbaa
+bababbbaaabb
+bbbbbb
+aaaaaa
+baababba
+ababbaba
